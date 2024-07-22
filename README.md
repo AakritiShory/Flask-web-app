@@ -1,4 +1,4 @@
-# 🗒️ To-Do List App
+# 🗒️ To-Do List App-Aakriti
 
 ## 🚀 Overview
 
@@ -37,14 +37,7 @@ Welcome to the **To-Do List App**! This application is a powerful tool for manag
     venv\Scripts\activate
 
 8. Install Dependencies:
-    ```bash
-  pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
   
-##🚀 Usage
-1.Run the Application:
-```bash
-flask run
-
-2.Access the Application:
-```bash
-Open your browser and go to http://127.0.0.1:5000 🌐
+Thank you for checking out the To-Do List App! 🎉 If you have any questions, suggestions, or feedback, feel free to reach out or open an issue on GitHub. Happy task managing! 🚀
