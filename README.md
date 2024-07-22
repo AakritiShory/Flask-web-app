@@ -17,6 +17,7 @@ Welcome to the **To-Do List App**! This application is a powerful tool for manag
 - **Responsive UI:** Thanks to Bootstrap, the app looks great on all devices 📱💻
 - **Persistent Storage:** Store your tasks safely with SQLAlchemy and SQLite 🗃️
 - **Live Deployment:** Access your app anytime, anywhere with Render 🎉
+- **Display time & date:** Shows time and date when task updated 🕒
 
 ## 📥 Installation
 
