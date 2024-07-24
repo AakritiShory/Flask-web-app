@@ -4,8 +4,8 @@
 
 Welcome to the **To-Do List App**! This application is a powerful tool for managing your tasks efficiently, built with a modern tech stack:
 
-- **Python** for all the backend magic ✨
-- **Flask** for a flexible backend 🐍
+- **Python** for all the backend magic 🐍
+- **Flask** for a flexible backend ✨
 - **Jinja2** for dynamic templating 🧩
 - **SQLAlchemy** for seamless database interactions 💾
 - **Bootstrap** for a stunning, responsive design 🌟
