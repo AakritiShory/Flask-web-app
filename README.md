@@ -41,4 +41,4 @@ Welcome to the **To-Do List App**! This application is a powerful tool for manag
    ```bash
    pip install -r requirements.txt
   
-Thank you for checking out the To-Do List App! 🎉 If you have any questions, suggestions, or feedback, feel free to reach out or open an issue on GitHub. Happy task managing! 🚀
+Thank you for checking out the To-Do List App! 🎉 If you have any questions, suggestions, or feedback, feel free to reach out or open an issue on GitHub. Happy task managing!. 🚀
